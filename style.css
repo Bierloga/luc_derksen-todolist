@@ -1,0 +1,39 @@
+* {
+    background-color:lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.trashcan {
+    width: 0.7rem;
+    display: inline-block;
+}
+
+.listItem {
+    display: inline-block;
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.item-container {
+    padding: 10px;
+    width: 200px;
+    border: 3px solid lightskyblue;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.trash-button {
+    background-color: lightskyblue;
+}
+.cross-out {
+    text-decoration: line-through;
+}
+
+#input-field {
+    background-color: white;
+    
+}
+
+#submit-button {
+    background-color: lightskyblue;
+}
